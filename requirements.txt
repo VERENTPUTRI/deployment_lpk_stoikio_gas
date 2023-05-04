@@ -1,0 +1,2 @@
+extra_streamlit_components==0.1.56
+streamlit==1.22.0
